@@ -7,6 +7,7 @@
  <a href="mailto:juliaiwinski@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
  <a href="https://terminal.turing.edu/alumni/799-julia-iwinski"><img src="https://img.shields.io/badge/Turing-000?style=for-the-badge&logo=turing&logoColor=black" alt="turing portfolio"></a>
 <br>
+ 
 
 <h2>Github Stats:</h2>
 <p align="center" >
