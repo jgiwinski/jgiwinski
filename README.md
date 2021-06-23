@@ -50,5 +50,5 @@
 
 ## Trophies
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=aemiers&column=6&theme=vue-dark&margin-w=20&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=jgiwinski&column=6&theme=vue-dark&margin-w=20&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
