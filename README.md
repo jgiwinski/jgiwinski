@@ -1,4 +1,4 @@
-<h1 align="center">Julia Iwinski</h1>
+<h1 align="center" style="font-family:Papyrus; font-size:4em;">Julia Iwinski</h1>
 <h2 align="center">Front-End Software Engineer | Phoenix, Arizona</h2>
 
 
