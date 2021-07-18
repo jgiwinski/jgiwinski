@@ -8,6 +8,14 @@
  <a href="https://terminal.turing.edu/alumni/799-julia-iwinski"><img src="https://img.shields.io/badge/Turing-000?style=for-the-badge&logo=turing&logoColor=black" alt="turing portfolio"></a>
 <br>
  
+ 
+<h2>Github Stats:</h2>
+<p align="center" >
+<img width="45%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jgiwinski&show_icons=true&theme=vue-dark&hide=stars_private=true">
+ <img align="right" width="40%" alt="Top Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgiwinski&layout=compact&theme=vue-dark&hide=jupyter%20notebook&">
+</p>
+
+ 
 
 ## Technologies
 
